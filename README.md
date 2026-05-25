@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Faiz Sheikh 👋
 
-<!--
-**Faizsheikh113/Faizsheikh113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Salesforce Developer & Administrator | Mobile App Developer
 
-Here are some ideas to get you started:
+🔹 Salesforce Certified Platform Developer I  
+🔹 Salesforce Certified Platform Administrator  
+🔹 3 years total experience — Salesforce + Flutter + React Native  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Salesforce:** Apex · LWC · Flow Builder · SOQL · Salesforce DX · REST API · GraphQL · Sales Cloud · Service Cloud  
+**Mobile:** Flutter · React Native · Dart · JavaScript  
+**Backend & Auth:** Firebase · Azure AD · OTP Auth  
+**Tools:** Git · VS Code · Salesforce DX  
+
+---
+
+### 🚀 Featured Project
+
+**FieldOps 360** — Personal Salesforce CRM for sales pipeline & field service management  
+Built with Apex, LWC, Flow Builder, REST API, Customer 360  
+👉 [View Project](https://github.com/Faizsheikh113/FieldOps360)
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/faizsheikh113)
+[![Trailhead](https://img.shields.io/badge/Trailhead-Salesforce-blue)](https://salesforce.com/trailblazer/uyxif8ind5vuhely5f)
+📧 faizsheikh113@gmail.com
