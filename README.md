@@ -21,7 +21,7 @@
 
 **FieldOps 360** — Personal Salesforce CRM for sales pipeline & field service management  
 Built with Apex, LWC, Flow Builder, REST API, Customer 360  
-👉 [View Project](https://github.com/Faizsheikh113/FieldOps360)
+👉 [View Project](https://github.com/Faizsheikh113/fieldops-360-salesforce)
 
 ---
 
